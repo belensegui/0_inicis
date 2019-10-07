@@ -1,6 +1,9 @@
 # 0_inicis
 Crear un repositori
 
+## Activitats
+* [01_LlocWeb] (https://belensegui.github.io/01_lloc_web/)
+
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
 * [Llenguatge d'etiquetes Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
