@@ -6,7 +6,7 @@ Crear un repositori
 
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
-* [Pàgina Magda](https://github.com/arquesm/2GP)
+* [Pàgina arquesm](https://github.com/arquesm/2GP)
 * [Llenguatge d'etiquetes Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 
 ## Manuals
