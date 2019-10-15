@@ -2,7 +2,7 @@
 Crear un repositori
 
 ## Activitats
-* [01_LlocWeb] (https://belensegui.github.io/01_lloc_web/)
+* [01_LlocWeb](https://belensegui.github.io/01_lloc_web/)
 * [02_CMYK]( https://belensegui.github.io/02_cmyk/)
 
 ## Pàgines classe
