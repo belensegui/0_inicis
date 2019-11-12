@@ -7,6 +7,7 @@ Crear un repositori
 * [03_disseny](https://belensegui.github.io/03_disseny/)
 * [04_maquetació_referents](https://belensegui.github.io/04_maquetacio_referents/)
 * [05_moduls](https://belensegui.github.io/05_moduls/)
+* [06 tarjeta](https://belensegui.github.io/06_tarjetes/)
 
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
