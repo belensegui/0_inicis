@@ -11,6 +11,7 @@ Crear un repositori
 * [07_landpaging](https://belensegui.github.io/07_landingpage/)
 * [08_grid](https://belensegui.github.io/08_grid/)
 * [10_minimalissimo_shop](https://belensegui.github.io/10_minimalissimo_shop/)
+* [11_mademyfieldwork](https://belensegui.github.io/11_mademyfieldwork/)
 
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
