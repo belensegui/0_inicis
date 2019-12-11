@@ -12,6 +12,7 @@ Crear un repositori
 * [08_grid](https://belensegui.github.io/08_grid/)
 * [10_minimalissimo_shop](https://belensegui.github.io/10_minimalissimo_shop/)
 * [11_mademyfieldwork](https://belensegui.github.io/11_mademyfieldwork/)
+* [12_transformar](https://belensegui.github.io/12_transformar/)
 
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
