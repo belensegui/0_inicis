@@ -16,6 +16,7 @@ Crear un repositori
 * [14_JS_parejas](https://belensegui.github.io/14_js_parejas/)
 * [15_Parejas02](https://belensegui.github.io/15_Parelles_02/)
 * [0_0_examen](https://belensegui.github.io/0_0_examen/)
+ANEXES
 
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
