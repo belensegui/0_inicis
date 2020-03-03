@@ -18,6 +18,7 @@ Crear un repositori
 * [15_Parejas02](https://belensegui.github.io/15_Parelles_02/)
 * [16_porfoli](https://belensegui.github.io/16_portfoli/)
 * [0_0_examen](https://belensegui.github.io/0_0_examen/)
+* [0.2_examen](https://belensegui.github.io/0_0.1_examen-2/)
 
 
 ## Pàgines classe
