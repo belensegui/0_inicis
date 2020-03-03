@@ -13,10 +13,12 @@ Crear un repositori
 * [10_minimalissimo_shop](https://belensegui.github.io/10_minimalissimo_shop/)
 * [11_mademyfieldwork](https://belensegui.github.io/11_mademyfieldwork/)
 * [12_transformar](https://belensegui.github.io/12_transformar/)
+* [13_Aesop](https://belensegui.github.io/13_aesop/)
 * [14_JS_parejas](https://belensegui.github.io/14_js_parejas/)
 * [15_Parejas02](https://belensegui.github.io/15_Parelles_02/)
+* [16_porfoli](https://belensegui.github.io/16_portfoli/)
 * [0_0_examen](https://belensegui.github.io/0_0_examen/)
-ANEXES
+
 
 ## Pàgines classe
 * [Pàgina classe GP2](https://arquesm.github.io/2GP/)
